@@ -1,0 +1,54 @@
+{
+  "basics":{
+    "photo":"download.png",
+    "name":"s.aliya",
+    "phone":"9999234",
+    "email":"aliyasulthana535@gmail.com"
+
+  },
+  "skills":[
+    {
+      "name":"programming languages",
+      "value":"c,c++,java"
+    },
+    {
+      "name":"operating systems",
+      "value":"Windows,Linux"
+    },
+    {
+      "name":"Web technology",
+      "value":"html,css,php,javascript"
+    }
+  ],
+  "education":[
+    {
+      "coures":"b.tech(cse)",
+      "collage":[
+        "svit",
+        "2015-2019",
+        "70%"
+      ]
+    },
+    {
+      "coures":"+2",
+      "collage":[
+        "sri sai j collage",
+        "2013-2015",
+        "70%"
+      ]
+    },
+    {
+      "coures":"ssc",
+      "collage":[
+        "mpgh",
+        "2012-2013",
+        "70%"
+      ]
+    }
+  ],
+  "strength":{
+  "stregth":"iam good in web technology . i can handle work in pressure"
+  }
+
+
+}

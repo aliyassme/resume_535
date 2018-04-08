@@ -1,7 +1,22 @@
-.main{
+img{
+  width:200px;
+  }
+  h1,h2{
+    font-style:italic;
+    }
+    table,td,tr{
+      border:2px solid #000;
+      border-collapse: collapse;
+    }
+    p{
+      font-style: italic;
+      font-family: cursive;
+      font-weight: bold;
+    }
+    .main{
 border:2px solid #000;
 display: flex;
-flex-wrap: wrap;
+flex-wrap:column;
 }
 .left{
   flex:1;
@@ -21,7 +36,7 @@ padding: 5px;
   .main{
   border:2px solid #000;
   display: flex;
-  flex-wrap:column;
+  flex-wrap:row-reverse;
   }
   .left{
     background-color: #00ff00;
